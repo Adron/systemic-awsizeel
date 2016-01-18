@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/Adron/systemic-awsizeel/issues"
   },
-  "homepage": "https://github.com/Adron/systemic-awsizeel#readme"
+  "homepage": "https://github.com/Adron/systemic-awsizeel#readme",
+  "dependencies": {
+    "aws-sdk": "^2.2.30"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
 }
